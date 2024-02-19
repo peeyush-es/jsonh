@@ -1,0 +1,20 @@
+[
+{
+"latitude": 40.712776,
+"longitude": -74.005974,
+"description": "Point 1",
+"time": 1653603843766
+},
+{
+"latitude": 40.878113,
+"longitude": -70.629799,
+"description": "Point 2",
+"time": 1653703843766
+},
+{
+"latitude": 41.878113,
+"longitude": -87.629799,
+"description": "Point 3",
+"time": 1654603843766
+}
+]
