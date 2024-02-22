@@ -1,0 +1,240 @@
+[
+    {
+        "description": "route",
+        "inc": 0.1,
+        "latitude": 113.84118864444451,
+        "longitude": 78.07475636777778,
+        "timestamp": 1708321800000
+    },
+    {
+        "description": "route",
+        "inc": 0.2,
+        "latitude": 111.95888412499998,
+        "longitude": 78.0920844886111,
+        "timestamp": 1708325400000
+    },
+    {
+        "description": "route",
+        "inc": 0.30000000000000004,
+        "latitude": 109.22359028333335,
+        "longitude": 78.02541739305559,
+        "timestamp": 1708329000000
+    },
+    {
+        "description": "route",
+        "inc": 0.4,
+        "latitude": 104.44905284722218,
+        "longitude": 77.60239176694445,
+        "timestamp": 1708332600000
+    },
+    {
+        "description": "route",
+        "inc": 0.5,
+        "latitude": 102.353371875,
+        "longitude": 77.56537857111108,
+        "timestamp": 1708336200000
+    },
+    {
+        "description": "route",
+        "inc": 0.6000000000000001,
+        "latitude": 99.07319313888891,
+        "longitude": 77.78170058055552,
+        "timestamp": 1708339800000
+    },
+    {
+        "description": "route",
+        "inc": 0.7000000000000001,
+        "latitude": 90.87725333548386,
+        "longitude": 74.49228598451606,
+        "timestamp": 1708343400000
+    },
+    {
+        "description": "route",
+        "inc": 0.8,
+        "latitude": 83.69595131999999,
+        "longitude": 68.65255938799999,
+        "timestamp": 1708360030000
+    },
+    {
+        "description": "route",
+        "inc": 0.9,
+        "latitude": 70.08216910526315,
+        "longitude": 57.48432697368421,
+        "timestamp": 1708399170000
+    },
+    {
+        "description": "route",
+        "inc": 1.0,
+        "latitude": 81.52317271428572,
+        "longitude": 66.8695332142857,
+        "timestamp": 1708401660000
+    },
+    {
+        "description": "route",
+        "inc": 1.1,
+        "latitude": 88.65340129545456,
+        "longitude": 72.69409686363637,
+        "timestamp": 1708407160000
+    },
+    {
+        "description": "route",
+        "inc": 1.2000000000000002,
+        "latitude": 92.46134766336635,
+        "longitude": 76.0905278379538,
+        "timestamp": 1708408200000
+    },
+    {
+        "description": "route",
+        "inc": 1.3,
+        "latitude": 92.19075344444435,
+        "longitude": 77.54913097138889,
+        "timestamp": 1708411800000
+    },
+    {
+        "description": "route",
+        "inc": 1.4000000000000001,
+        "latitude": 88.65912841388885,
+        "longitude": 77.47695384861106,
+        "timestamp": 1708415400000
+    },
+    {
+        "description": "route",
+        "inc": 1.5,
+        "latitude": 84.29090066666666,
+        "longitude": 77.44066181333338,
+        "timestamp": 1708419000000
+    },
+    {
+        "description": "route",
+        "inc": 1.6,
+        "latitude": 82.51391494323144,
+        "longitude": 77.05056084366815,
+        "timestamp": 1708422600000
+    },
+    {
+        "description": "route",
+        "inc": 1.7000000000000002,
+        "latitude": 81.51465884444443,
+        "longitude": 77.31244431694445,
+        "timestamp": 1708426200000
+    },
+    {
+        "description": "route",
+        "inc": 1.8,
+        "latitude": 81.50983967500008,
+        "longitude": 77.191082458889,
+        "timestamp": 1708429800000
+    },
+    {
+        "description": "route",
+        "inc": 1.9000000000000001,
+        "latitude": 82.37068535000006,
+        "longitude": 77.01459452611113,
+        "timestamp": 1708433400000
+    },
+    {
+        "description": "route",
+        "inc": 2.0,
+        "latitude": 77.82542456097559,
+        "longitude": 71.90976784390243,
+        "timestamp": 1708437000000
+    },
+    {
+        "description": "route",
+        "inc": 2.1,
+        "latitude": 78.3712226909091,
+        "longitude": 72.39836245090915,
+        "timestamp": 1708449640000
+    },
+    {
+        "description": "route",
+        "inc": 2.2,
+        "latitude": 78.94418052380954,
+        "longitude": 72.9287822595238,
+        "timestamp": 1708485830000
+    },
+    {
+        "description": "route",
+        "inc": 2.3000000000000003,
+        "latitude": 69.93960703125003,
+        "longitude": 64.61036640625,
+        "timestamp": 1708488360000
+    },
+    {
+        "description": "route",
+        "inc": 2.4000000000000004,
+        "latitude": 69.62856832000001,
+        "longitude": 64.323719976,
+        "timestamp": 1708492190000
+    },
+    {
+        "description": "route",
+        "inc": 2.5,
+        "latitude": 72.53218379166665,
+        "longitude": 67.00413189583334,
+        "timestamp": 1708495580000
+    },
+    {
+        "description": "route",
+        "inc": 2.6,
+        "latitude": 80.04935340689656,
+        "longitude": 73.92428323586208,
+        "timestamp": 1708499650000
+    },
+    {
+        "description": "route",
+        "inc": 2.7,
+        "latitude": 83.96477619476747,
+        "longitude": 76.5001186002907,
+        "timestamp": 1708501800000
+    },
+    {
+        "description": "route",
+        "inc": 2.8000000000000003,
+        "latitude": 85.15600629687505,
+        "longitude": 76.41434298125007,
+        "timestamp": 1708505400000
+    },
+    {
+        "description": "route",
+        "inc": 2.9000000000000004,
+        "latitude": 58.437631789473684,
+        "longitude": 52.254846673684206,
+        "timestamp": 1708509600000
+    },
+    {
+        "description": "route",
+        "inc": 3.0,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "timestamp": 1708526970000
+    },
+    {
+        "description": "route",
+        "inc": 3.1,
+        "latitude": 85.40969706666661,
+        "longitude": 76.37230705866672,
+        "timestamp": 1708527000000
+    },
+    {
+        "description": "route",
+        "inc": 3.2,
+        "latitude": 83.2910455041322,
+        "longitude": 74.47895761322297,
+        "timestamp": 1708564050000
+    },
+    {
+        "description": "route",
+        "inc": 3.3000000000000003,
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "timestamp": 1708573780000
+    },
+    {
+        "description": "route",
+        "inc": 3.4000000000000004,
+        "latitude": 76.86774729999999,
+        "longitude": 68.73534348,
+        "timestamp": 1708573800000
+    }
+]
